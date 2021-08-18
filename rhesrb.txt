@@ -1,3 +1,6 @@
+
+USER AGENT : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36.
+___________________________________________________________________________________________________________________
 https://therokuchannel.roku.com/watch/04e3c54b739b5f58bdad839baa854bb5/accuweather-now
 https://therokuchannel.roku.com/watch/b71c44cc439354d4b9939a55f3a20097/el-rey
 https://therokuchannel.roku.com/watch/fc509fc922805196b5930e519de58fc8/nbc-news-now
